@@ -4,3 +4,4 @@ bootstrap/cache/
 /storage/installed
 .env
 /vendor/
+node_modules
